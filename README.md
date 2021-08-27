@@ -1,2 +1,2 @@
 # exeter-coding-challenge
-Exeter Coding Challenge
+Coding Challenge built with Fastify.JS with simple CRUD operations.
