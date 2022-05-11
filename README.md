@@ -1,2 +1,2 @@
-# exeter-coding-challenge
-Coding Challenge built with Fastify.JS with simple CRUD operations.
+# python paraphraser
+A simple python paraphraser program to translate and paraphrase the text in french to english and vice-versa.
